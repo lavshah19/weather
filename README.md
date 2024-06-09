@@ -12,15 +12,15 @@ Welcome to the Weather App GitHub repository! This application allows users to g
 
 ## Demo
 
-You can check out a live demo of the app [here](https://your-live-demo-link.com).
+You can check out a live demo of the app [here](https://lavshah19.github.io/weather/)
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-*Home Page*
+![Home Page](weather.png)
 
-![Weather Details](screenshots/weather-details.png)
-*Weather Details*
+
+
+
 
 ## Getting Started
 
